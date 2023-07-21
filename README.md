@@ -60,7 +60,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # How to start the application?
 * First install all libraries .
-* write in CMD: ### `npm start`.
+* write in CMD: `npm start`.
 
 ### Screeshots
 
